@@ -1,0 +1,58 @@
+btn:
+  home: ホーム
+  blog: ブログ
+  wiki: Wiki
+  recent_publish: 最近
+  all_wiki: すべて
+  category: カテゴリ
+  categories: カテゴリ
+  tag: タグ
+  tags: タグ
+  archives: 記事
+  getting_started: 始める
+
+meta:
+  recent_update: 更新
+  toc: 目次
+  read_next: 次を読む
+  prev: 前
+  next: 後
+  older: 前へ
+  newer: 後へ
+  references: 参照
+  related_posts: 関連項目
+  comment_title: 議論に参加
+  back_to_top: トップへ
+  more: 'さらに%s件'
+  created: '投稿時刻'
+  updated: '更新時刻'
+  license: ライセンス
+  share: シェア
+  repo_info: 情報
+  date_suffix:
+    just: 今
+    min: 分前
+    hour: 時間前
+    day: 日前
+    month: ヶ月前
+
+footer:
+  license: 'All articles in this blog are licensed under %s unless stating additionally.'
+  info_not_open_source: 'This site was deployed by %s using %s.'
+  info_open_source: 'This site was deployed by %s using %s. You can find the source code in %s.'
+
+page:
+  error:
+    what: ページが見つかりませんでした
+    why: ページが見つかりませんでした
+    action: ホームへ戻る
+
+message:
+  copied: コピーされました!
+
+symbol:
+  comma: ", "
+  period: ". "
+  colon: ": "
+  brackets_l: "("
+  brackets_r: ")"

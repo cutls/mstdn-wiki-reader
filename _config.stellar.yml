@@ -1,0 +1,18 @@
+sidebar:
+  widgets:
+    welcome:
+      layout: markdown
+      title: マストドン日本語ウィキアーカイブ
+      content: | # support markdown
+        かつてあったja.mstdn.wikiの全ページをアーカイブしました。
+
+
+
+######## Main ########
+breadcrumb:
+  home: home # config.title / config.author / home or custom content
+
+######## Article ########
+article:
+  # 文章许可协议
+  license: '特に記載がない限り、内容は[クリエイティブ・コモンズ 表示-非営利-継承](https://creativecommons.org/licenses/by-nc-sa/4.0/)のライセンスで利用できます。'
